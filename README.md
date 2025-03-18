@@ -24,4 +24,4 @@ Este proyecto es una aplicación web que permite a los usuarios ingresar nombres
 ## 📄 Uso del Proyecto
 
 Clona el repositorio:
-git clone https://github.com/jjaramillo3144/challenge-amigo-secreto_esp-main.git
+git clone https://github.com/jjaramillo3144/challenge-amigo-secreto.git
